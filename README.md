@@ -1,11 +1,13 @@
-### Hi there 👋
+## Welcome! 👋
 
-My name is An Nguyen and I am a Computer Engineering student at San Jose State University. I am also a Cybersecurity Enthusiast and I am always looking forward to learning new skills. In my repositories section, you'll be able to find my portfolio for each of the programming languages I've learned.
+I'm An Nguyen, a Computer Engineering student at San Jose State University with a passion for Cybersecurity. I'm always exploring new skills and expanding my knowledge. In my repositories, you'll find a portfolio that showcases the projects I've worked on, as well as the programming languages I've learned and practiced.
 
-Here are links to my repositories: 
+#### Important Project Repositories: 
+* [CPU Architecture Pipeline](https://github.com/TenaCity23/CPU-Architecture)
+* [Online Food Store Website](https://github.com/venajustin/OnlineFoodStore)
+
+#### Programming Language Repositories: 
 * [C++](https://github.com/TenaCity23/CPP)
 * [C Programming](https://github.com/TenaCity23/c_programming)
 
 <br>
-
-I have also had a chance to collaborate in creating an Online Food Store website with my classmates, which can be found through this link: [OFS Website](https://github.com/venajustin/OnlineFoodStore)
